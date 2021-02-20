@@ -584,4 +584,10 @@ Learn more about TensorFlow in general with TensorFlow's getting started documen
 It is now 13:57, I have also bakded some grandad cookies, going o get out of oven now.
 
 
+WOO horsey Woo, we are using the wrong repo, I am leveraging the Image Classification project, not the Object Detection.
 
+This is what this repo is currently using
+https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/android/README.md
+
+It should have been using 
+https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/README.md
